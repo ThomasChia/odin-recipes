@@ -1,0 +1,58 @@
+* {
+    font-family: helvetica, sans-serif;
+}
+
+h1 {
+    color: #000000;
+    font-size: 50px;
+    text-align: center;
+}
+
+img {
+    height: 500px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    color: #000000;
+    font-size: 40px;
+}
+
+p {
+    font-size: 26px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.description {
+    background-color: #d0c9c9;
+}
+
+ul {
+    color: #000000;
+    font-size: 26px;
+}
+
+ul.ingredients-list {
+    background-color: #d0c9c9;
+}
+
+ol {
+    color: #000000;
+    background-color: #d0c9c9;
+    font-size: 26px;
+}
+
+ul.homepage-list {
+    margin-right: 3%;
+    margin-top: 50px;
+    list-style: none;
+    text-align: center;
+}
+
+.eating {
+    margin-top: 50px;
+}
